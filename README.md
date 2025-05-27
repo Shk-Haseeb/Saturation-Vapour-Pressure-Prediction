@@ -1,7 +1,7 @@
 # Saturation Vapour Pressure Prediction
 
 ## 🧪 Project Overview
-This project was developed as part of the Introduction to Machine Learning course at the University of Helsinki. The aim was to build a predictive model for estimating the saturation vapour pressure (pSat) of chemical compounds based on molecular descriptors. The dataset used for this task was provided through a Kaggle competition associated with the course, where our solution achieved a top-10 placement, ranking 8th overall.
+This project was developed as part of the Introduction to Machine Learning course at the University of Helsinki. The aim was to build a predictive model for estimating the saturation vapour pressure (pSat) of chemical compounds based on molecular descriptors. The dataset used for this task was provided through a Kaggle competition associated with the course, where our solution achieved a top-5 placement, ranking 3rd overall.
 
 ## 🔍 Approach
 - Preprocessing with scaling and one-hot encoding
