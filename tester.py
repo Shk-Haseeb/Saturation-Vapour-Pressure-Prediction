@@ -75,3 +75,4 @@ submission = pd.DataFrame({
 
 submission['TARGET'] = submission['TARGET'].round(9)
 submission.to_csv('submission.csv', index=False)
+# Results uploaded to external submission.csv file
